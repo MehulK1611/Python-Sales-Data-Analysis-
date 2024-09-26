@@ -1,5 +1,5 @@
 ## Overview
-- This project is a sales data analysis project. I used Python libraries, Pandas and Matplotlib to create visualizations in Jupyter Notebook.
+This project is a sales data analysis project. I used Python libraries, Pandas and Matplotlib to create visualizations in Jupyter Notebook.
 ## Data Cleaning and Processing
 - Cleaned and processed data to prepare it for analysis
 - Handled missing values, corrected data types, and removed irrelevant data
